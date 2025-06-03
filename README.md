@@ -44,9 +44,9 @@
 ###
 
 <div align="left">
-  <a href="mailto:lucasguerrawr2004@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+  <a href="https://unidos-helpnei.vercel.app/">
+  <img src="https://img.shields.io/static/v1?message=Unidos+Helpnei&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Unidos Helpnei site" />
+</a>
   <a href="https://www.linkedin.com/in/lucas-guerra000/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
